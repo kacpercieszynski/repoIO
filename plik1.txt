@@ -1,1 +1,3 @@
 zmiana zdalne repo 13.04.25
+
+klonowanie zdalego repo na lokalne 13.04.2025
